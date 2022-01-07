@@ -1,2 +1,2 @@
-# -rccnw-blazor-wasm-hosted-ref-
+# rccnw-blazor-wasm-hosted-ref
 Blazor wasm hosted reference project
